@@ -27,4 +27,6 @@ Using container and row/column logic effectively
 Embedding SVGs for crisp, scalable icons
 Section-based semantic HTML design
 
+## 📄 License
 
+This project is created as part of a learning journey.
