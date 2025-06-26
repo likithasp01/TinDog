@@ -15,7 +15,7 @@ Pricing cards with clear plans
 Clean, structured, and reusable Bootstrap components
 
 
-##  Live Demo
+##  Demo
 
 https://github.com/user-attachments/assets/0451f049-a7b0-4390-a419-bdf0b2e20eb0
 
