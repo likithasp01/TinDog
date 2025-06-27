@@ -2,9 +2,9 @@
 TinDog is a fun, responsive front-end web project that mimics a dating app — but for dogs! Built using HTML, CSS, and Bootstrap, this project showcases modern design practices and component-based layouts while helping me practice web development concepts.
 
 ## Tech Stack:
-HTML5
-CSS3
-Bootstrap 5.3
+- HTML5
+- CSS3
+
 
 ## Features:
 Responsive layout with Bootstrap 5
